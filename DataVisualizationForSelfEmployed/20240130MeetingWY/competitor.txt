@@ -2,3 +2,22 @@ POS data plaform: https://www.posplatform.co.kr/market/sub01?data_num=1&page=1
 
 https://m.blog.naver.com/zzaitian/220848944161
 
+https://tossplace.com/product/pos?utm_source=googleads&utm_medium=all&utm_campaign=traffic_tossplace_performance&utm_term=traffic_tossplace_231212_pos&utm_content=traffic_tossplace_231212_pos&gclid=Cj0KCQiAzoeuBhDqARIsAMdH14HXtwQGe-f4xWitBYv94vvuZtj75YFz1K9j2Db84ffYiscaV-QZN38aAj9REALw_wcB
+
+https://disquiet.io/@bonobinu/makerlog/%EC%9B%94-99-000%EC%9B%90%EC%9C%BC%EB%A1%9C-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8B%A4%EB%A9%B4
+
+https://12bme.tistory.com/238
+
+https://www.pentasecurity.co.kr/pos/
+
+보통 제공하는 데이터 목록
+  . 일별 거래 건수 및 금액
+  . 요일별 거래 건수 및 금액
+  . 카테고리별 거래 건수 및 금액
+  . 시간대별 거래 건수 및 금액
+  . 메뉴별 거래 건수 및 금액
+
+
+https://www.youtube.com/watch?v=JsjW6Q1rXHI : Pos기 주인이 엑셀 파일 형식으로 파일 다운받을 수 있는듯?
+
+
